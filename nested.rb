@@ -85,9 +85,9 @@ def adding_matz
           :languages => ["C"]
         }
      }
-		 programmer_hash[:Annemarie_Osullivan] = {}
-		 programmer_hash[:Annemarie_Osullivan][:known_for] = "Coding"
-		 programmer_hash[:Annemarie_Osullivan][:languages] = "Ruby, Javascript, Python"
+		 programmer_hash[:yukihiro_matsumoto] = {}
+		 programmer_hash[:yukihiro_matsumoto][:known_for] = "Coding"
+		 programmer_hash[:yukihiro_matsumoto][:languages] = "Ruby, Javascript, Python"
 		 programmer_hash
 
 end
